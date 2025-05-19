@@ -4364,7 +4364,7 @@ hero-btn {
 
 /* line 6, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_team.scss */
 .team-area .single-team .team-img img {
-  width: 50%;
+  width: 100%;
   transform: scale(1);
   transition: all 0.6s ease-out 0s;
 }
